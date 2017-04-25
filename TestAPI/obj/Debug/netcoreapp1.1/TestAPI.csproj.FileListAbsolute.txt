@@ -1,0 +1,18 @@
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.deps.json
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.runtimeconfig.json
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.runtimeconfig.dev.json
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.dll
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.csprojResolveAssemblyReference.cache
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.AssemblyInfo.cs
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.pdb
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.dll
+d:\users\dinger\documents\visual studio 2017\Projects\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.pdb
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.deps.json
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.runtimeconfig.json
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.runtimeconfig.dev.json
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.dll
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\bin\Debug\netcoreapp1.1\TestAPI.pdb
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.csprojResolveAssemblyReference.cache
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.AssemblyInfo.cs
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.dll
+D:\Users\Dinger\Desktop\test\dotNetCoreAPIDemoTest\TestAPI\obj\Debug\netcoreapp1.1\TestAPI.pdb
