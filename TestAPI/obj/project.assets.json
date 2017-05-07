@@ -10761,10 +10761,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Dinger\\Desktop\\test\\dotNetCoreAPIDemoTest\\TestAPI\\TestAPI.csproj",
+      "projectUniqueName": "D:\\Users\\Dinger\\Desktop\\新建文件夹\\dotNetCoreAPIDemoTest\\TestAPI\\TestAPI.csproj",
       "projectName": "TestAPI",
-      "projectPath": "D:\\Users\\Dinger\\Desktop\\test\\dotNetCoreAPIDemoTest\\TestAPI\\TestAPI.csproj",
-      "outputPath": "D:\\Users\\Dinger\\Desktop\\test\\dotNetCoreAPIDemoTest\\TestAPI\\obj\\",
+      "projectPath": "D:\\Users\\Dinger\\Desktop\\新建文件夹\\dotNetCoreAPIDemoTest\\TestAPI\\TestAPI.csproj",
+      "outputPath": "D:\\Users\\Dinger\\Desktop\\新建文件夹\\dotNetCoreAPIDemoTest\\TestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
