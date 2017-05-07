@@ -1,1 +1,1 @@
-# dotNetCoreAPIDemoTest ，这是测试dotnetCoreAPIDemo的项目
+# dotNetCoreAPIDemoTest ， this is a Test "dotnetCoreAPIDemo" Project
